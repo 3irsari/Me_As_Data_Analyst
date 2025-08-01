@@ -326,16 +326,16 @@ df['revenue'] = df['quantity'] * df['unit_price']  # Fast
 
 This comprehensive workflow demonstrates how modern IDEs and tools support analysts throughout the entire process:
 
-1.Environment Setup: Library imports and configuration
-2.Data Generation: Synthetic data creation with realistic business logic
-3.Data Export: CSV file creation and management (in real businesses from SQL Server or equivalent)
-4.Data Loading: File reading and initial inspection
-5.Data Cleaning: Missing value handling, outlier detection, feature engineering
-6.Exploratory Analysis: Comprehensive business metrics calculation
-7.Statistical Analysis: Correlation analysis, hypothesis testing, customer segmentation
-8.Visualization: 12-panel executive dashboard creation
-9.Insights Generation: Automated business insight extraction
-10.Report Creation: Executive summary and strategic recommendations
+1. Environment Setup: Library imports and configuration
+2. Data Generation: Synthetic data creation with realistic business logic
+3. Data Export: CSV file creation and management (in real businesses from SQL Server or equivalent)
+4. Data Loading: File reading and initial inspection
+5. Data Cleaning: Missing value handling, outlier detection, feature engineering
+6. Exploratory Analysis: Comprehensive business metrics calculation
+7. Statistical Analysis: Correlation analysis, hypothesis testing, customer segmentation
+8. Visualization: 12-panel executive dashboard creation
+9. Insights Generation: Automated business insight extraction
+10. Report Creation: Executive summary and strategic recommendations
 
 > The key advantage of this supported environment is that it allows analysts to focus on the business logic and insights rather than syntax and technical details, while providing the flexibility to dive deep when needed.
 
