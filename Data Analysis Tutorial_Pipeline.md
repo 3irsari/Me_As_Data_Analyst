@@ -4,9 +4,9 @@ to insights visualization. In a real-world scenario, data would typically come f
 SQL databases, but for demonstration purposes, we'll generate dummy data and work
 with CSV files.
 
-Author: Birce SARI
-Date: 2025
-Purpose: Suggested demonstration of complete analysis pipeline
+-Author: Birce SARI
+-Date: 2025
+-Purpose: Suggested demonstration of complete analysis pipeline
 """
 
 # =============================================================================
