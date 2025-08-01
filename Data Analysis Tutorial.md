@@ -339,4 +339,4 @@ This comprehensive workflow demonstrates how modern IDEs and tools support analy
 
 > The key advantage of this supported environment is that it allows analysts to focus on the business logic and insights rather than syntax and technical details, while providing the flexibility to dive deep when needed.
 
-For your role as a Senior Business and Data Analyst, these tools would significantly enhance productivity in creating the 50+ dashboards and automated solutions you've developed in your previous positions.
+For my role as a Senior Business and Data Analyst, these tools would significantly enhance productivity in creating the 50+ dashboards and automated solutions I've developed in my previous positions.
