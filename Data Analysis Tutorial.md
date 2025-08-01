@@ -36,16 +36,16 @@ WHERE s.sale_date >= '2023-01-01'
     AND s.status = 'Completed'
 ```
 > Since we are creating a dummy dataset, our business rules will be like below
-🗓️ Date Generation: Exponentially weighted towards recent dates (365 days max)
-📦 Product Selection: 8 product categories with realistic price ranges
-🔢 Quantity Distribution: 80% small orders (1-3 items), 20% bulk orders (4-15 items)
-🌍 Regional Weights: North America (35%), Europe (25%), Asia Pacific (20%), etc.
-🛍️ Sales Channels: Online (45%), Retail Store (30%), Partner Channel (15%), Direct (10%)
-👤 Customer Demographics: Normal distribution around age 38, clipped to 18-75
-😊 Satisfaction Scoring: Base 3.5/5, adjusted for price and channel
-💰 Marketing Spend: Exponential distribution varying by channel
-🎁 Discount Logic: 30% of sales get 5-25% discounts
-🧪 Data Quality Issues: 5% missing satisfaction scores, 1% extreme outliers
+1. 🗓️ Date Generation: Exponentially weighted towards recent dates (365 days max)
+2. 📦 Product Selection: 8 product categories with realistic price ranges
+3. 🔢 Quantity Distribution: 80% small orders (1-3 items), 20% bulk orders (4-15 items)
+4. 🌍 Regional Weights: North America (35%), Europe (25%), Asia Pacific (20%), etc.
+5. 🛍️ Sales Channels: Online (45%), Retail Store (30%), Partner Channel (15%), Direct (10%)
+6. 👤 Customer Demographics: Normal distribution around age 38, clipped to 18-75
+7. 😊 Satisfaction Scoring: Base 3.5/5, adjusted for price and channel
+8. 💰 Marketing Spend: Exponential distribution varying by channel
+9. 🎁 Discount Logic: 30% of sales get 5-25% discounts
+10. 🧪 Data Quality Issues: 5% missing satisfaction scores, 1% extreme outliers
 
 **IDE Support at this Stage would be beneficial:**
 - SQL syntax highlighting and auto-completion
